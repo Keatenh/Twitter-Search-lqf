@@ -1,0 +1,23 @@
+{
+  "name": "twitter-search-lqf",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keatenh/Twitter-Search-lqf.git"
+  },
+  "author": "Keaten Holley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keatenh/Twitter-Search-lqf/issues"
+  },
+  "homepage": "https://github.com/Keatenh/Twitter-Search-lqf#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "twitter": "^1.7.1"
+  }
+}

@@ -1,0 +1,8 @@
+# secrets #
+config.js
+.env
+
+#images #
+*.jpg
+*.jpeg
+*.png
