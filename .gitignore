@@ -6,3 +6,6 @@ config.js
 *.jpg
 *.jpeg
 *.png
+
+#npm #
+node_modules
