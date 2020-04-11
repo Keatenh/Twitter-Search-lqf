@@ -15,7 +15,7 @@ var T = new Twitter({
 
 //Set up search parameters
 var params = {
-    q: 'Halloween 2018 trailer',
+    q: 'Halloween 2020 trailer',
     filter: 'safe',
     filter: 'links',
     // filter: 'twimg',
